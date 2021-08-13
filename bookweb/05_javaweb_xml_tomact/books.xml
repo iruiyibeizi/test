@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<books>
+    <book id="SN2341223412">
+    <name>java编程思想</name>
+    <author>华仔</author>
+    <price>9.9</price>
+    </book>
+
+    <book id="12345678">
+        <name>葵花宝典</name>
+        <author>班长</author>
+        <price>5.5</price>
+    </book>
+</books>
